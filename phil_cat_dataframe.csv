@@ -1,0 +1,79 @@
+ID,PPbroad_sort,PPbroad,PPspecific,LCcategory_sort,LCcategory,LCnumber
+1,1 Ancient Greek and Roman Philosophy,Ancient Greek and Roman Philosophy,Classical Greek Philosophy,01 B 165-491 Greece,B 165-491 Greece,B 168-491
+2,1 Ancient Greek and Roman Philosophy,Ancient Greek and Roman Philosophy,Hellenistic and Later Ancient Philosophy,02 B 505-626 Greco-Roman Philosophy,B 505-626 Greco-Roman Philosophy,B 504-708
+3,1 Ancient Greek and Roman Philosophy,Ancient Greek and Roman Philosophy,Pre-Socratic Philosophy,01 B 165-491 Greece,B 165-491 Greece,B 204-341
+4,1 Ancient Greek and Roman Philosophy,Ancient Greek and Roman Philosophy,Plato,01 B 165-491 Greece,B 165-491 Greece,B 350-398
+5,1 Ancient Greek and Roman Philosophy,Ancient Greek and Roman Philosophy,Aristotle,01 B 165-491 Greece,B 165-491 Greece,B 400-491 & Q something
+6,1 Ancient Greek and Roman Philosophy,Ancient Greek and Roman Philosophy,Topics in Ancient Greek and Roman Philosophy,01 B 165-491 Greece,B 165-491 Greece,B 168-200
+7,2 Medieval and Renaissance Philosophy,Medieval and Renaissance Philosophy,Medieval Islamic Philosophy,03 B 720-765 Medieval Philosophy,B 720-765 Medieval Philosophy,B 748-753
+8,2 Medieval and Renaissance Philosophy,Medieval and Renaissance Philosophy,Medieval Jewish Philosophy,03 B 720-765 Medieval Philosophy,B 720-765 Medieval Philosophy,B 755-759
+9,2 Medieval and Renaissance Philosophy,Medieval and Renaissance Philosophy,Medieval European Philosophy,03 B 720-765 Medieval Philosophy,B 720-765 Medieval Philosophy,B 765
+10,2 Medieval and Renaissance Philosophy,Medieval and Renaissance Philosophy,15th-16th c. Renaissance Philosophy,04 B 770-785 Renaissance Philosophy,B 770-785 Renaissance Philosophy,B 770-785
+11,2 Medieval and Renaissance Philosophy,Medieval and Renaissance Philosophy,Topics in Medieval Philosophy,03 B 720-765 Medieval Philosophy,B 720-765 Medieval Philosophy,B 720-745
+12,3 17th-18th Century Philosophy,17th-18th Century Philosophy,17th-18th c. British Philosophy,05 B 790-4695 Modern Philosophy,B 790-4695 Modern Philosophy,B 1131-1402
+13,3 17th-18th Century Philosophy,17th-18th Century Philosophy,17th-18th c. French Philosophy,09 B 1801-2430 France,B 1801-2430 France,B 1815-2179
+14,3 17th-18th Century Philosophy,17th-18th Century Philosophy,17th-18th c. German Philosophy,10 B 2521-3396 Germany & Austria,B 2521-3396 Germany & Austria,B 2535-3177
+15,3 17th-18th Century Philosophy,17th-18th Century Philosophy,17th-18th c. Philosophy (General),06 B 791-804 General Works,B 791-804 General Works,B 801-802
+16,4 19th Century Philosophy,19th Century Philosophy,Hegel,10 B 2521-3396 Germany & Austria,B 2521-3396 Germany & Austria,B 2900-2949
+17,4 19th Century Philosophy,19th Century Philosophy,Kant,10 B 2521-3396 Germany & Austria,B 2521-3396 Germany & Austria,B 2750-2799
+18,4 19th Century Philosophy,19th Century Philosophy,Spinoza,12 B 3801-4175 The Netherlands & Belgium,B 3801-4175 The Netherlands & Belgium,B 3950-4000
+19,4 19th Century Philosophy,19th Century Philosophy,Kierkegaard,13 B 4301-4495 Scandinavia,B 4301-4495 Scandinavia,B 4369-4378
+20,5 20th Century Analytic Philosophy,20th Century Analytic Philosophy,G. E. M. Anscombe,08 B 1111-? England,B 1111-? England,B 1618.A57 - .A574
+21,5 20th Century Analytic Philosophy,20th Century Analytic Philosophy,J. L. Austin,08 B 1111-? England,B 1111-? England,B 1618.A8 - .A84
+22,5 20th Century Analytic Philosophy,20th Century Analytic Philosophy,Rudolf Carnap,07 B 851-945 United States,B 851-945 United States,B 945.C16 - .C164
+23,5 20th Century Analytic Philosophy,20th Century Analytic Philosophy,Ernst Cassirer,10 B 2521-3396 Germany & Austria,B 2521-3396 Germany & Austria,B 3216.C3 - .C34
+24,5 20th Century Analytic Philosophy,20th Century Analytic Philosophy,Roderick Chisholm,07 B 851-945 United States,B 851-945 United States,B 945.C46 - .C464
+25,5 20th Century Analytic Philosophy,20th Century Analytic Philosophy,Donald Davidson,07 B 851-945 United States,B 851-945 United States,B 945.D38 - .D384
+26,5 20th Century Analytic Philosophy,20th Century Analytic Philosophy,Paul Feyerabend,10 B 2521-3396 Germany & Austria,B 2521-3396 Germany & Austria,B 3240.F48 - .F484
+27,5 20th Century Analytic Philosophy,20th Century Analytic Philosophy,Gottlob Frege,10 B 2521-3396 Germany & Austria,B 2521-3396 Germany & Austria,B 3245.F2 - .F24
+28,5 20th Century Analytic Philosophy,20th Century Analytic Philosophy,Nelson Goodman,07 B 851-945 United States,B 851-945 United States,B 945.G62 - .G624
+29,5 20th Century Analytic Philosophy,20th Century Analytic Philosophy,David Lewis,07 B 851-945 United States,B 851-945 United States,B 945.L455 - .L4554
+30,5 20th Century Analytic Philosophy,20th Century Analytic Philosophy,G. E. Moore,08 B 1111-? England,B 1111-? England,B 1647.M7 - .M74
+31,5 20th Century Analytic Philosophy,20th Century Analytic Philosophy,Derek Parfit,08 B 1111-? England,B 1111-? England,B 1649.P37 - .P374
+32,5 20th Century Analytic Philosophy,20th Century Analytic Philosophy,Karl Popper,08 B 1111-? England,B 1111-? England,B 1649.P6 - .P64
+33,5 20th Century Analytic Philosophy,20th Century Analytic Philosophy,W. V. O Quine,07 B 851-945 United States,B 851-945 United States,B 945.Q5 - .Q54
+34,5 20th Century Analytic Philosophy,20th Century Analytic Philosophy,John Rawls,08 B 1111-? England,B 1111-? England,B 1649.R9 - R.94
+35,5 20th Century Analytic Philosophy,20th Century Analytic Philosophy,Bertrand Russell,08 B 1111-? England,B 1111-? England,B 1659.R9 - .R94
+36,5 20th Century Analytic Philosophy,20th Century Analytic Philosophy,Gilbert Ryle,08 B 1111-? England,B 1111-? England,B 1649.R96 - .R964
+37,5 20th Century Analytic Philosophy,20th Century Analytic Philosophy,Wilfrid Sellars,07 B 851-945 United States,B 851-945 United States,B 945.S44 - .S444
+38,5 20th Century Analytic Philosophy,20th Century Analytic Philosophy,P. F. Strawson,08 B 1111-? England,B 1111-? England,B 1667.S38 - S.384
+39,5 20th Century Analytic Philosophy,20th Century Analytic Philosophy,Ludwig Wittgenstein,10 B 2521-3396 Germany & Austria,B 2521-3396 Germany & Austria,B 3376.W56 - .W564
+40,6 20th Century Continental Philosophy,20th Century Continental Philosophy,Theodor Adorno,10 B 2521-3396 Germany & Austria,B 2521-3396 Germany & Austria,B 3199.A3 - .A34
+41,6 20th Century Continental Philosophy,20th Century Continental Philosophy,Giorgio Agamben,11 B 3551-3656 Italy,B 3551-3656 Italy,B 3611.A4 - .A44
+42,6 20th Century Continental Philosophy,20th Century Continental Philosophy,Louis Althusser,09 B 1801-2430 France,B 1801-2430 France,B 2430.A47 - .A474
+43,6 20th Century Continental Philosophy,20th Century Continental Philosophy,Hannah Arendt,07 B 851-945 United States,B 851-945 United States,B 945.A69 - .A694
+44,6 20th Century Continental Philosophy,20th Century Continental Philosophy,Alain Badiou,09 B 1801-2430 France,B 1801-2430 France,B 2430.B27 - .B274
+45,6 20th Century Continental Philosophy,20th Century Continental Philosophy,Henri Bergson,09 B 1801-2430 France,B 1801-2430 France,B 2430.B37 - .B43
+46,6 20th Century Continental Philosophy,20th Century Continental Philosophy,Waltar Benjamin,10 B 2521-3396 Germany & Austria,B 2521-3396 Germany & Austria,B 3209.B58 - .B584
+47,6 20th Century Continental Philosophy,20th Century Continental Philosophy,Simone de Beauvoir,09 B 1801-2430 France,B 1801-2430 France,B 2430.B34 - .B344
+48,6 20th Century Continental Philosophy,20th Century Continental Philosophy,Judith Butler,07 B 851-945 United States,B 851-945 United States,B 945.B88 - .B884
+49,6 20th Century Continental Philosophy,20th Century Continental Philosophy,Albert Camus,09 B 1801-2430 France,B 1801-2430 France,B 2430.C35 - .C354
+50,6 20th Century Continental Philosophy,20th Century Continental Philosophy,Gilles Deleuze,09 B 1801-2430 France,B 1801-2430 France,B 2430.D45 - .D454
+51,6 20th Century Continental Philosophy,20th Century Continental Philosophy,Jacques Derrida,09 B 1801-2430 France,B 1801-2430 France,B 2430.D48 - .D484
+52,6 20th Century Continental Philosophy,20th Century Continental Philosophy,Michel Foucault,09 B 1801-2430 France,B 1801-2430 France,B 2430.F72 - .F724
+53,6 20th Century Continental Philosophy,20th Century Continental Philosophy,Hans-George Gadamer,10 B 2521-3396 Germany & Austria,B 2521-3396 Germany & Austria,B 3248.G3 - .G34
+54,6 20th Century Continental Philosophy,20th Century Continental Philosophy,Aron Gurwitsch,10 B 2521-3396 Germany & Austria,B 2521-3396 Germany & Austria,B 3254.G86 - .G864
+55,6 20th Century Continental Philosophy,20th Century Continental Philosophy,JÅrgen Habermas,10 B 2521-3396 Germany & Austria,B 2521-3396 Germany & Austria,B 3258.H32 - .H324
+56,6 20th Century Continental Philosophy,20th Century Continental Philosophy,Martin Heidegger,10 B 2521-3396 Germany & Austria,B 2521-3396 Germany & Austria,B 3279.H45 - .H49Z
+57,6 20th Century Continental Philosophy,20th Century Continental Philosophy,Michel Henry,09 B 1801-2430 France,B 1801-2430 France,B 2430.H45 - .H454
+58,6 20th Century Continental Philosophy,20th Century Continental Philosophy,Edmund Husserl,10 B 2521-3396 Germany & Austria,B 2521-3396 Germany & Austria,B 3279.H9 - .H94
+59,6 20th Century Continental Philosophy,20th Century Continental Philosophy,Max Horkheimer,10 B 2521-3396 Germany & Austria,B 2521-3396 Germany & Austria,B 3279.H847 - .H3474
+60,6 20th Century Continental Philosophy,20th Century Continental Philosophy,Roman Ingarden,14 B 4681-4695 Other European Countries,B 4681-4695 Other European Countries,B 4691.I53 - .I534
+61,6 20th Century Continental Philosophy,20th Century Continental Philosophy,Luce Irigaray,09 B 1801-2430 France,B 1801-2430 France,B 2430.I7 - .I74
+62,6 20th Century Continental Philosophy,20th Century Continental Philosophy,Karl Jaspers,10 B 2521-3396 Germany & Austria,B 2521-3396 Germany & Austria,B 3279.J3 - .J34
+63,6 20th Century Continental Philosophy,20th Century Continental Philosophy,Julia Kristeva,09 B 1801-2430 France,B 1801-2430 France,B 2430.K754. - K.7544
+64,6 20th Century Continental Philosophy,20th Century Continental Philosophy,Jacques Lacan,15 BF Psychology,BF Psychology,BF 109.L28
+65,6 20th Century Continental Philosophy,20th Century Continental Philosophy,Claude Levi-Strauss,16 GN Anthropology,GN Anthropology,GN21.L4
+66,6 20th Century Continental Philosophy,20th Century Continental Philosophy,Emmanuel Levinas,09 B 1801-2430 France,B 1801-2430 France,B 2430.L48 - .L484
+67,6 20th Century Continental Philosophy,20th Century Continental Philosophy,Jean-Fran?ois Lyotard,09 B 1801-2430 France,B 1801-2430 France,B 2430.L96 - .L964
+68,6 20th Century Continental Philosophy,20th Century Continental Philosophy,Jan Patocka,05 B 790-4695 Modern Philosophy,B 790-4695 Modern Philosophy,B 4805.P38 - .P384
+69,6 20th Century Continental Philosophy,20th Century Continental Philosophy,Maurice Merleau-Ponty,09 B 1801-2430 France,B 1801-2430 France,B 2430.M376 - .M3764
+70,6 20th Century Continental Philosophy,20th Century Continental Philosophy,Jean-Luc Nancy,09 B 1801-2430 France,B 1801-2430 France,B 2430.N36 - .N364
+71,6 20th Century Continental Philosophy,20th Century Continental Philosophy,Jacques Ranciere,09 B 1801-2430 France,B 1801-2430 France,B 2430.R27 - .R274
+72,6 20th Century Continental Philosophy,20th Century Continental Philosophy,Paul Ricoeur,09 B 1801-2430 France,B 1801-2430 France,B 2430.R55 - .R554
+73,6 20th Century Continental Philosophy,20th Century Continental Philosophy,Jean-Paul Sartre,09 B 1801-2430 France,B 1801-2430 France,B 2430.S3 - .S34
+74,6 20th Century Continental Philosophy,20th Century Continental Philosophy,Max Scheler,10 B 2521-3396 Germany & Austria,B 2521-3396 Germany & Austria,B 3329.S48 - .S484
+75,6 20th Century Continental Philosophy,20th Century Continental Philosophy,Alfred Schuetz,07 B 851-945 United States,B 851-945 United States,B 945.S354 - .S3544
+76,6 20th Century Continental Philosophy,20th Century Continental Philosophy,Edith Stein,10 B 2521-3396 Germany & Austria,B 2521-3396 Germany & Austria,B 3332.S67 - .S674
+77,6 20th Century Continental Philosophy,20th Century Continental Philosophy,Leo Strauss,07 B 851-945 United States,B 851-945 United States,B 945.S8 - .S84
+78,6 20th Century Continental Philosophy,20th Century Continental Philosophy,Slavoj Zizek,10 B 2521-3396 Germany & Austria,B 2521-3396 Germany & Austria,B 3376.W56 - .W564
